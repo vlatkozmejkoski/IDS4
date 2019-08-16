@@ -3,9 +3,13 @@
 
 
 using System;
+using IdentityServer4;
+using IdentityServer4.Services;
+using ids.Helpers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
+
 
 namespace ids
 {
@@ -23,10 +27,29 @@ namespace ids
             // uncomment, if you want to add an MVC-based UI
             services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_2_1);
 
-            var builder = services.AddIdentityServer()
-                .AddInMemoryIdentityResources(Config.GetIdentityResources())
-                .AddInMemoryApiResources(Config.GetApis())
-                .AddInMemoryClients(Config.GetClients());
+            services.AddCors(setup =>
+            {
+                setup.AddDefaultPolicy(policy =>
+                {
+                    policy.AllowAnyHeader();
+                    policy.AllowAnyMethod();
+                    policy.WithOrigins("http://localhost:8082");
+                    policy.AllowCredentials();
+                });
+            });
+
+            var builder = services.AddIdentityServer(options =>
+            {
+                options.UserInteraction.LoginUrl = "http://localhost:8082/index.html";
+                options.UserInteraction.ErrorUrl = "http://localhost:8082/error.html";
+                options.UserInteraction.LogoutUrl = "http://localhost:8082/logout.html";
+            })
+            .AddInMemoryIdentityResources(Config.GetIdentityResources())
+            .AddInMemoryApiResources(Config.GetApis())
+            .AddInMemoryClients(Config.GetClients());
+
+
+            services.AddTransient<IReturnUrlParser, CustomReturnUrlParser>();
 
             if (Environment.IsDevelopment())
             {
@@ -48,6 +71,7 @@ namespace ids
             // uncomment if you want to support static files
             //app.UseStaticFiles();
 
+            app.UseCors();
             app.UseIdentityServer();
 
             // uncomment, if you want to add an MVC-based UI

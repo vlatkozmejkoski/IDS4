@@ -1,0 +1,1019 @@
+2019-08-14 15:02:50.694 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:02:50.738 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:02:50.747 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:02:50.747 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:02:50.748 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:02:50.748 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:02:50.748 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:02:50.748 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:02:51.195 +02:00 [DBG] Login Url: /Account/Login
+2019-08-14 15:02:51.197 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:02:51.197 +02:00 [DBG] Logout Url: /Account/Logout
+2019-08-14 15:02:51.197 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:02:51.197 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:02:51.198 +02:00 [DBG] Error Url: /home/error
+2019-08-14 15:02:51.198 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:20:25.120 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:20:25.159 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:20:25.167 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:20:25.167 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:20:25.168 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:20:25.168 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:20:25.168 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:20:25.168 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:20:25.422 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:20:25.439 +02:00 [DBG] Login Url: /Account/Login
+2019-08-14 15:20:25.439 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:20:25.439 +02:00 [DBG] Logout Url: /Account/Logout
+2019-08-14 15:20:25.439 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:20:25.439 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:20:25.439 +02:00 [DBG] Error Url: /home/error
+2019-08-14 15:20:25.439 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:21:11.884 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:21:11.933 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:21:11.941 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:21:11.941 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:21:11.941 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:21:11.941 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:21:11.941 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:21:11.942 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:21:12.348 +02:00 [DBG] Login Url: /Account/Login
+2019-08-14 15:21:12.350 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:21:12.350 +02:00 [DBG] Logout Url: /Account/Logout
+2019-08-14 15:21:12.350 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:21:12.350 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:21:12.350 +02:00 [DBG] Error Url: /home/error
+2019-08-14 15:21:12.350 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:21:35.710 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:21:35.738 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:28:26.323 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:28:26.373 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:28:26.382 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:28:26.382 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:28:26.382 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:28:26.382 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:28:26.382 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:28:26.382 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:28:26.836 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-14 15:28:26.838 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:28:26.838 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-14 15:28:26.838 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:28:26.838 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:28:26.838 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-14 15:28:26.839 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:28:38.079 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:29:10.138 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-14 15:29:10.142 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-14 15:29:10.143 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-14 15:29:10.149 +02:00 [DBG] Start discovery request
+2019-08-14 15:29:31.733 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-14 15:29:31.733 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-14 15:29:31.734 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-14 15:29:31.734 +02:00 [DBG] Start discovery request
+2019-08-14 15:37:14.017 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:37:14.051 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:37:14.060 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:37:14.060 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:37:14.060 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:37:14.060 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:37:14.060 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:37:14.060 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:37:14.445 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:37:14.460 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-14 15:37:14.460 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:37:14.460 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-14 15:37:14.460 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:37:14.460 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:37:14.460 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-14 15:37:14.460 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:37:29.150 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:37:29.189 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:37:29.198 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:37:29.198 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:37:29.198 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:37:29.198 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:37:29.198 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:37:29.198 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:37:29.738 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-14 15:37:29.740 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:37:29.740 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-14 15:37:29.740 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:37:29.740 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:37:29.740 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-14 15:37:29.740 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:38:00.779 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:38:21.673 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:40:41.109 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:51:25.565 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:51:25.603 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:51:25.611 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:51:25.611 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:51:25.611 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:51:25.611 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:51:25.611 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:51:25.611 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:51:26.024 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-14 15:51:26.026 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:51:26.026 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-14 15:51:26.026 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:51:26.026 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:51:26.026 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-14 15:51:26.026 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:51:37.713 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:53:46.489 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 15:53:46.530 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 15:53:46.540 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 15:53:46.541 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 15:53:46.541 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 15:53:46.541 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 15:53:46.541 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 15:53:46.541 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 15:53:46.944 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-14 15:53:46.946 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 15:53:46.947 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-14 15:53:46.947 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 15:53:46.947 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 15:53:46.947 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-14 15:53:46.947 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 15:53:58.784 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 15:54:09.516 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 16:03:09.395 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-14 16:03:09.432 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-14 16:03:09.440 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-14 16:03:09.440 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-14 16:03:09.440 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-14 16:03:09.440 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-14 16:03:09.440 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-14 16:03:09.441 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-14 16:03:09.946 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-14 16:03:09.949 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-14 16:03:09.949 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-14 16:03:09.949 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-14 16:03:09.949 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-14 16:03:09.949 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-14 16:03:09.949 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-14 16:22:53.456 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 16:25:46.534 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-14 16:25:49.913 +02:00 [DBG] Augmenting SignInContext
+2019-08-14 16:25:49.969 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-14 16:27:55.309 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 14:37:14.112 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 14:37:14.171 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 14:37:14.183 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 14:37:14.183 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 14:37:14.183 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 14:37:14.183 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 14:37:14.183 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 14:37:14.183 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 14:37:14.825 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 14:37:14.827 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 14:37:14.827 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 14:37:14.827 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 14:37:14.827 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 14:37:14.827 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 14:37:14.827 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 14:38:04.408 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 14:38:04.451 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 14:38:04.461 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 14:38:04.461 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 14:38:04.461 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 14:38:04.461 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 14:38:04.461 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 14:38:04.461 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 14:38:05.101 +02:00 [DBG] Login Url: /Account/Login
+2019-08-15 14:38:05.104 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 14:38:05.104 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 14:38:05.104 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 14:38:05.104 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 14:38:05.104 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 14:38:05.104 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 14:38:10.597 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:16:28.446 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:16:28.495 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:16:28.504 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:16:28.504 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:16:28.504 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:16:28.504 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:16:28.505 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:16:28.505 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:16:28.912 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:16:28.916 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:16:28.916 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:16:28.916 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:16:28.916 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:16:28.916 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:16:28.916 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 15:17:32.860 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:17:32.899 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:17:32.908 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:17:32.908 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:17:32.908 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:17:32.908 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:17:32.909 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:17:32.909 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:17:33.298 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:17:33.301 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:17:33.301 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:17:33.301 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:17:33.301 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:17:33.301 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:17:33.301 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 15:19:23.077 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:19:23.127 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:19:23.137 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:19:23.137 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:19:23.137 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:19:23.137 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:19:23.137 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:19:23.137 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:19:23.593 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:19:23.596 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:19:23.596 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:19:23.596 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:19:23.596 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:19:23.596 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:19:23.596 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 15:19:23.630 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 15:19:23.640 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 15:19:23.640 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 15:19:23.644 +02:00 [DBG] Start discovery request
+2019-08-15 15:19:23.963 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 15:19:23.964 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 15:19:23.964 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 15:19:23.968 +02:00 [DBG] Start key discovery request
+2019-08-15 15:19:24.078 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 15:19:24.100 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 15:19:24.100 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 15:19:24.105 +02:00 [DBG] Start authorize request
+2019-08-15 15:19:24.116 +02:00 [DBG] No user present in authorize request
+2019-08-15 15:19:24.121 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:19:24.141 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:19:24.168 +02:00 [ERR] Invalid redirect_uri: https://localhost:44368/signin-oidc
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":null,"AllowedRedirectUris":["http://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":null,"ResponseMode":null,"GrantType":null,"RequestedScopes":"","State":null,"UiLocales":null,"Nonce":null,"AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014719640242278.YWU2YzMzNWItM2QyYi00ZDcxLWE5ZTMtY2E3YzAyODRmODZmZWY2NmE1NzktYzEyYi00ZTc5LWJhZDUtMWQzYjU0Zjk1ZWUw","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFLRd7gd220SLJ6Uv5vASbYkPJ33_jkuqDdqzDKr76RjgBMDtSX1nz7dVEbc_Nvq9vLkbFG62uzrFZrKNIYFwg09-b_Ubn57UbkUMbisUf_rljfs9NWGgIj9EC37wOYplNMukA1xfaf-WcoL13VFCw4ZvDiHAVr7t65EEELHkwBq44o86Z7pdywERAjg6kW6pMeU7noK3vr9onKJxmbp5nJ6x0ebdbfTeW18olI7eEgzJBJOay8wjVmhjWVzaUJvfxOmQWseukfph68QF6CkNlvCDEb817TygnpIiMpJjlOk4-zLCHWziNuzq46vDmjmKcQ","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 15:19:24.193 +02:00 [ERR] Request validation failed
+2019-08-15 15:19:24.193 +02:00 [INF] {"ClientId":"sp","ClientName":"Service Provider","RedirectUri":null,"AllowedRedirectUris":["http://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":null,"ResponseMode":null,"GrantType":null,"RequestedScopes":"","State":null,"UiLocales":null,"Nonce":null,"AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014719640242278.YWU2YzMzNWItM2QyYi00ZDcxLWE5ZTMtY2E3YzAyODRmODZmZWY2NmE1NzktYzEyYi00ZTc5LWJhZDUtMWQzYjU0Zjk1ZWUw","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFLRd7gd220SLJ6Uv5vASbYkPJ33_jkuqDdqzDKr76RjgBMDtSX1nz7dVEbc_Nvq9vLkbFG62uzrFZrKNIYFwg09-b_Ubn57UbkUMbisUf_rljfs9NWGgIj9EC37wOYplNMukA1xfaf-WcoL13VFCw4ZvDiHAVr7t65EEELHkwBq44o86Z7pdywERAjg6kW6pMeU7noK3vr9onKJxmbp5nJ6x0ebdbfTeW18olI7eEgzJBJOay8wjVmhjWVzaUJvfxOmQWseukfph68QF6CkNlvCDEb817TygnpIiMpJjlOk4-zLCHWziNuzq46vDmjmKcQ","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 15:19:24.644 +02:00 [DBG] CORS request made for path: /api/authenticate/error from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:19:38.276 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 15:19:38.277 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 15:19:38.277 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 15:19:38.277 +02:00 [DBG] Start authorize request
+2019-08-15 15:19:38.277 +02:00 [DBG] No user present in authorize request
+2019-08-15 15:19:38.277 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:19:38.277 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:19:38.278 +02:00 [ERR] Invalid redirect_uri: https://localhost:44368/signin-oidc
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":null,"AllowedRedirectUris":["http://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":null,"ResponseMode":null,"GrantType":null,"RequestedScopes":"","State":null,"UiLocales":null,"Nonce":null,"AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014719782633757.M2ZkYzQ3YWYtOTQ1OC00NTJlLTlkMmEtZjE1YmU2YzhhOTE3NWVjYTYxZTktMDA0Yy00YWQ3LWEwNTYtYTc2MTcxNTVlNWQ2","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFIx_oMakzOAj92D3zzy-D-CbwCJLyxD4ma_Ju3GA30B9X2B3Q5a8On3Iy7s1nTmx05uE14-7v7kdxr5nicpIqoKylmVYAzWNZX95ZTpaQe-tAk4yd_n0QRp5NG1IiXt1xNtMLx63plqisohmRPv4mfantVg3l-zR51V04srmukysU4sc7mDWz1tWO5GGnYtzBaRIOWdOjKkGy_3KRh8m3qmvNSQOpTx4mKt3qRA5r1FNu1HTLi9HSw63iSIzxgeQLSizjIdTxb1BKRHc2HqDs3XAjscPRiU1khUnGQPV91ME05dYfHBXOgLADQ9N0hbxPg","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 15:19:38.278 +02:00 [ERR] Request validation failed
+2019-08-15 15:19:38.278 +02:00 [INF] {"ClientId":"sp","ClientName":"Service Provider","RedirectUri":null,"AllowedRedirectUris":["http://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":null,"ResponseMode":null,"GrantType":null,"RequestedScopes":"","State":null,"UiLocales":null,"Nonce":null,"AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014719782633757.M2ZkYzQ3YWYtOTQ1OC00NTJlLTlkMmEtZjE1YmU2YzhhOTE3NWVjYTYxZTktMDA0Yy00YWQ3LWEwNTYtYTc2MTcxNTVlNWQ2","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFIx_oMakzOAj92D3zzy-D-CbwCJLyxD4ma_Ju3GA30B9X2B3Q5a8On3Iy7s1nTmx05uE14-7v7kdxr5nicpIqoKylmVYAzWNZX95ZTpaQe-tAk4yd_n0QRp5NG1IiXt1xNtMLx63plqisohmRPv4mfantVg3l-zR51V04srmukysU4sc7mDWz1tWO5GGnYtzBaRIOWdOjKkGy_3KRh8m3qmvNSQOpTx4mKt3qRA5r1FNu1HTLi9HSw63iSIzxgeQLSizjIdTxb1BKRHc2HqDs3XAjscPRiU1khUnGQPV91ME05dYfHBXOgLADQ9N0hbxPg","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 15:19:38.581 +02:00 [DBG] CORS request made for path: /api/authenticate/error from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:20:18.709 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:20:18.751 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:20:18.760 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:20:18.760 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:20:18.760 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:20:18.760 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:20:18.760 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:20:18.760 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:20:19.222 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:20:19.225 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:20:19.225 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:20:19.225 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:20:19.225 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:20:19.225 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:20:19.225 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 15:20:50.569 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 15:20:50.573 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 15:20:50.573 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 15:20:50.577 +02:00 [DBG] Start discovery request
+2019-08-15 15:20:50.739 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 15:20:50.740 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 15:20:50.740 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 15:20:50.743 +02:00 [DBG] Start key discovery request
+2019-08-15 15:20:50.829 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 15:20:50.854 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 15:20:50.854 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 15:20:50.859 +02:00 [DBG] Start authorize request
+2019-08-15 15:20:50.869 +02:00 [DBG] No user present in authorize request
+2019-08-15 15:20:50.875 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:20:50.909 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:20:50.957 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 15:20:50.977 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFI7iUE605ZIlX54Ynfy1KE_82F7XeENZs-Iv8aO1GrsQlghvO0Jbfy5uP54wrFMh9IUtI9AXZtkIec0mp-oAnKVoXnsfz2W59kzUpGgYjBgS0ug9RJwnxCZlLEXVVhBnLcdSmC6OHQlGTltrvdlwJfcLmU93RVxEjjLqetknjRZgRYUsDS4qMXCMPruHj3UPwc_fZFykqpF_k0HTHHl6FyGjDYBhq5BivSRmFPddlKYK6b2W4B9G1n1TOjFYiwg18wELzWe2TLqmorJ0qWObhly82WGJCo4vEw8xU4UrpbV7Qm5YQ451NuRYWlXLSVsPyQ","UiLocales":null,"Nonce":"637014720507769116.OTMxMzlmYmMtNWNiZC00ODlhLThhYWQtZGQ5ZWU1Yzg1NzM2M2VmNGM2ZjAtZmI5OC00MWEyLWE3NDMtYTIwMjQ4ZTlhNmNl","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014720507769116.OTMxMzlmYmMtNWNiZC00ODlhLThhYWQtZGQ5ZWU1Yzg1NzM2M2VmNGM2ZjAtZmI5OC00MWEyLWE3NDMtYTIwMjQ4ZTlhNmNl","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFI7iUE605ZIlX54Ynfy1KE_82F7XeENZs-Iv8aO1GrsQlghvO0Jbfy5uP54wrFMh9IUtI9AXZtkIec0mp-oAnKVoXnsfz2W59kzUpGgYjBgS0ug9RJwnxCZlLEXVVhBnLcdSmC6OHQlGTltrvdlwJfcLmU93RVxEjjLqetknjRZgRYUsDS4qMXCMPruHj3UPwc_fZFykqpF_k0HTHHl6FyGjDYBhq5BivSRmFPddlKYK6b2W4B9G1n1TOjFYiwg18wELzWe2TLqmorJ0qWObhly82WGJCo4vEw8xU4UrpbV7Qm5YQ451NuRYWlXLSVsPyQ","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 15:20:51.005 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 15:21:02.266 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:21:27.094 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:21:27.095 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:21:27.095 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 15:21:34.795 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 15:21:34.939 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 15:26:58.752 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:26:58.791 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:26:58.800 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:26:58.800 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:26:58.800 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:26:58.800 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:26:58.800 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:26:58.800 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:26:59.014 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:26:59.030 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:26:59.031 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:26:59.031 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:26:59.031 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:26:59.031 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:26:59.031 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:26:59.031 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 15:26:59.224 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:26:59.241 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:26:59.283 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 15:26:59.292 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 15:26:59.296 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 15:26:59.360 +02:00 [WRN] Connection processing ended abnormally.
+Microsoft.AspNetCore.Connections.ConnectionAbortedException: The connection was aborted
+   at System.IO.Pipelines.PipeCompletion.ThrowLatchedException()
+   at System.IO.Pipelines.Pipe.GetReadResult(ReadResult& result)
+   at System.IO.Pipelines.Pipe.GetReadAsyncResult()
+   at System.IO.Pipelines.Pipe.DefaultPipeReader.GetResult(Int16 token)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequestsAsync[TContext](IHttpApplication`1 application)
+2019-08-15 15:27:26.058 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:27:26.102 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:27:26.111 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:27:26.112 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:27:26.112 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:27:26.112 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:27:26.112 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:27:26.112 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:27:26.566 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:27:26.569 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:27:26.569 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:27:26.569 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:27:26.569 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:27:26.569 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:27:26.569 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 15:27:30.574 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 15:27:30.578 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 15:27:30.579 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 15:27:30.583 +02:00 [DBG] Start discovery request
+2019-08-15 15:27:30.767 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 15:27:30.767 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 15:27:30.767 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 15:27:30.772 +02:00 [DBG] Start key discovery request
+2019-08-15 15:27:30.851 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 15:27:30.875 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 15:27:30.875 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 15:27:30.878 +02:00 [DBG] Start authorize request
+2019-08-15 15:27:30.889 +02:00 [DBG] No user present in authorize request
+2019-08-15 15:27:30.894 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:27:30.912 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:27:30.961 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 15:27:30.977 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFKeUJ67wf-0jO97DA3LBmehbPCwXZ5znnYMQY7_SzuE0Y2KOQ13maqR7J_LVlN5taNPFl1VNtFRSB-HaJ5H5pVFh6e4ece99YExKP8l80rl6j6YHgt-fUGAikiqr6GGBIPUCfjdfGKgjTvGYTuvMk9WblXU2bJ9Jq2GARLmoP9QVQI8nnhkAydLvmt0IDJBjTNhLQl5RH-HyhShlTHbNpkbuPZk5_vgRJFUFFHxCz57QC0tzeULt6GekLPlguf6KCCJukKFiWQjBkDgbkT21kNbHu8SzAKszWvf45_xc-d30HK2UPDuCq2opKG9gM_8H3M","UiLocales":null,"Nonce":"637014724508045108.ODQxOWNiZmEtOTk4MS00ZGE3LWIyNjAtYTljOGI3Mzc3M2RjNjljMDM0MTctYjY5Yy00OTVhLTg1MTUtM2VjNTcxZjFhZmQ3","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014724508045108.ODQxOWNiZmEtOTk4MS00ZGE3LWIyNjAtYTljOGI3Mzc3M2RjNjljMDM0MTctYjY5Yy00OTVhLTg1MTUtM2VjNTcxZjFhZmQ3","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFKeUJ67wf-0jO97DA3LBmehbPCwXZ5znnYMQY7_SzuE0Y2KOQ13maqR7J_LVlN5taNPFl1VNtFRSB-HaJ5H5pVFh6e4ece99YExKP8l80rl6j6YHgt-fUGAikiqr6GGBIPUCfjdfGKgjTvGYTuvMk9WblXU2bJ9Jq2GARLmoP9QVQI8nnhkAydLvmt0IDJBjTNhLQl5RH-HyhShlTHbNpkbuPZk5_vgRJFUFFHxCz57QC0tzeULt6GekLPlguf6KCCJukKFiWQjBkDgbkT21kNbHu8SzAKszWvf45_xc-d30HK2UPDuCq2opKG9gM_8H3M","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 15:27:31.007 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 15:27:38.153 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:27:48.720 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:27:48.721 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:27:48.721 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 15:28:13.456 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 15:28:13.603 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 15:30:11.903 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 15:30:58.891 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 15:30:58.891 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 15:30:58.892 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 15:31:30.154 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 15:31:30.280 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 15:32:17.382 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 15:32:17.419 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 15:32:17.427 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 15:32:17.427 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 15:32:17.427 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 15:32:17.427 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 15:32:17.427 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 15:32:17.427 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 15:32:17.654 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 15:32:17.656 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 15:32:17.656 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 15:32:17.656 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 15:32:17.656 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 15:32:17.656 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 15:32:17.656 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:12:00.425 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 16:12:00.470 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 16:12:00.481 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 16:12:00.481 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 16:12:00.481 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 16:12:00.481 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 16:12:00.481 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 16:12:00.481 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 16:12:00.947 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 16:12:00.949 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 16:12:00.949 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 16:12:00.950 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 16:12:00.950 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 16:12:00.950 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 16:12:00.950 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:12:05.095 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 16:12:05.099 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 16:12:05.099 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 16:12:05.103 +02:00 [DBG] Start discovery request
+2019-08-15 16:12:05.250 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 16:12:05.250 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 16:12:05.250 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 16:12:05.255 +02:00 [DBG] Start key discovery request
+2019-08-15 16:12:05.341 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 16:12:05.367 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 16:12:05.367 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 16:12:05.371 +02:00 [DBG] Start authorize request
+2019-08-15 16:12:05.381 +02:00 [DBG] No user present in authorize request
+2019-08-15 16:12:05.386 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:12:05.404 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:12:05.441 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:12:05.456 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFK4sWGqYzJEnoEHJfenkDY5jaKURtbktmheWqcb_WkKBug9XpS_-YQ4RGi-bnwocA8IeDgFiNx69B36QK7vOdyTX1y1ABx5vj199NsUKcfXVo3iJh7uiglHxBA4HA4mGoYZzmYsEYdcjyVYBtrq-QQ-KGzAKvNWujdN361u8cbxzVe1SoTUijYhgIXHsf-HfOAeYu4nbcBIgQMiA9ypN7BEBhgtUpV3RHf2bPk_-E0n1iN9GvqFBIE-q51yU-O9_UHfwO-sHKypqlh__5Y7ytrOjaWFhlRYybfQysk5PrSbRnB9hMy1I1a88e6H9kraeQQ","UiLocales":null,"Nonce":"637014751252898720.ZDQ5NTU0YmYtZThkNS00MjkxLWJlYWUtM2JiZTFhMmE3NDE3MGQ4ZGY0ZTEtNTlkMy00ZjJkLThkMDUtNjY3MzY5OTY5YTNj","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014751252898720.ZDQ5NTU0YmYtZThkNS00MjkxLWJlYWUtM2JiZTFhMmE3NDE3MGQ4ZGY0ZTEtNTlkMy00ZjJkLThkMDUtNjY3MzY5OTY5YTNj","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFK4sWGqYzJEnoEHJfenkDY5jaKURtbktmheWqcb_WkKBug9XpS_-YQ4RGi-bnwocA8IeDgFiNx69B36QK7vOdyTX1y1ABx5vj199NsUKcfXVo3iJh7uiglHxBA4HA4mGoYZzmYsEYdcjyVYBtrq-QQ-KGzAKvNWujdN361u8cbxzVe1SoTUijYhgIXHsf-HfOAeYu4nbcBIgQMiA9ypN7BEBhgtUpV3RHf2bPk_-E0n1iN9GvqFBIE-q51yU-O9_UHfwO-sHKypqlh__5Y7ytrOjaWFhlRYybfQysk5PrSbRnB9hMy1I1a88e6H9kraeQQ","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 16:12:05.484 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 16:12:30.038 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:12:43.377 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:12:43.377 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:12:43.378 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:13:04.839 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No sign-in authentication handler is registered for the scheme 'Cookies'. The registered sign-in schemes are: idsrv, idsrv.external. Did you forget to call AddAuthentication().AddCookies("Cookies",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties)
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 82
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 16:16:57.054 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 16:16:57.095 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 16:16:57.105 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 16:16:57.105 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 16:16:57.105 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 16:16:57.105 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 16:16:57.106 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 16:16:57.106 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 16:16:57.475 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 16:16:57.478 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 16:16:57.478 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 16:16:57.478 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 16:16:57.478 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 16:16:57.478 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 16:16:57.478 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:17:02.380 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 16:17:02.383 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 16:17:02.383 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 16:17:02.387 +02:00 [DBG] Start discovery request
+2019-08-15 16:17:02.571 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 16:17:02.572 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 16:17:02.572 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 16:17:02.576 +02:00 [DBG] Start key discovery request
+2019-08-15 16:17:02.671 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 16:17:02.694 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 16:17:02.694 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 16:17:02.699 +02:00 [DBG] Start authorize request
+2019-08-15 16:17:02.710 +02:00 [DBG] No user present in authorize request
+2019-08-15 16:17:02.715 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:17:02.734 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:17:02.778 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:17:02.799 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFLSM_M0Rr1PSjrqYTfV9JuwdvVhmXDP49OPxp_fIr30ywX-I1wSyY8k-d-rLIZasHQpstwk-F4L0pvDbrpsFC5TBNT2WUVsG-S4cV47p7GWffppQX5P0PE0ri84SwY3dsZbXwwmsNRMqHpn6-UV0ooW1iTp7VR_eJ_umZizCIFDg60rwSTSpjRTtHd58BAseAhlV8TEogdwCnfo_7q3N2ZLoyXPh2l1wqs-H6jPvyl-Od8FalIRqz8Ta-yFyuUHIsKHkQSPKIKYZoCtd9sGnoru8sheNx-ywBT5ATUKn6355TZEnnuOWeLdK__k0CW6mKg","UiLocales":null,"Nonce":"637014754226152934.NWE3ZDMxMzEtZGEwYS00NWY3LWI3M2ItOGY5ODc2MWIzMWMyY2RlZjZmMWItYzg5ZS00NmFkLTkwMWMtOGQ1Y2ZlYjk5ZDNi","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014754226152934.NWE3ZDMxMzEtZGEwYS00NWY3LWI3M2ItOGY5ODc2MWIzMWMyY2RlZjZmMWItYzg5ZS00NmFkLTkwMWMtOGQ1Y2ZlYjk5ZDNi","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFLSM_M0Rr1PSjrqYTfV9JuwdvVhmXDP49OPxp_fIr30ywX-I1wSyY8k-d-rLIZasHQpstwk-F4L0pvDbrpsFC5TBNT2WUVsG-S4cV47p7GWffppQX5P0PE0ri84SwY3dsZbXwwmsNRMqHpn6-UV0ooW1iTp7VR_eJ_umZizCIFDg60rwSTSpjRTtHd58BAseAhlV8TEogdwCnfo_7q3N2ZLoyXPh2l1wqs-H6jPvyl-Od8FalIRqz8Ta-yFyuUHIsKHkQSPKIKYZoCtd9sGnoru8sheNx-ywBT5ATUKn6355TZEnnuOWeLdK__k0CW6mKg","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 16:17:02.836 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 16:17:10.238 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:17:28.818 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:17:28.818 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:17:28.819 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:17:53.457 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 16:17:53.600 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 59
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 16:25:45.043 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 16:25:45.092 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 16:25:45.102 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 16:25:45.102 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 16:25:45.102 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 16:25:45.102 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 16:25:45.102 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 16:25:45.102 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 16:25:45.664 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 16:25:45.666 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 16:25:45.666 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 16:25:45.666 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 16:25:45.666 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 16:25:45.666 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 16:25:45.666 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:25:54.295 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 16:25:54.301 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 16:25:54.301 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 16:25:54.306 +02:00 [DBG] Start discovery request
+2019-08-15 16:25:54.599 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 16:25:54.600 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 16:25:54.600 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 16:25:54.605 +02:00 [DBG] Start key discovery request
+2019-08-15 16:25:54.726 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 16:25:54.748 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 16:25:54.748 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 16:25:54.755 +02:00 [DBG] Start authorize request
+2019-08-15 16:25:54.769 +02:00 [DBG] No user present in authorize request
+2019-08-15 16:25:54.774 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:25:54.793 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:25:54.847 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:25:54.871 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFKzYa9At5oZHkUPRSsC4qawalYbRMaFDvX1I0ke18gxbwdKGlgcJ3okXj3OeE2qKt91xY6jHy2O37bkzNgxkrhJK2LFVtOLWeKyQp8NIZUXMfQc58VwPCI7-0b9UA7woL2VlEGLFezzNkU9OATV8r2gdtavB4lfI3J7ct2iwfrbH4YmpoNJVedBgH2vVDhLR0DeZdc56jSz_0K_qjq96UjE1Og8zGeikjF8eQV6BHpkxyh7r0mDf26B72153RQ5DIYuWCrod_v7atWX87ILDR3Ap4rzX3uHQk6vRXRaPHWoBH_TcUb3ickHb0Vxu3m6atg","UiLocales":null,"Nonce":"637014759546706954.MGM3MjgxZmEtODg0NS00YmFiLTlmNjktNGViNzc1ZmFhYTQzMDkzYjdkNTYtOWMwNy00MTA2LWJiNjAtM2I2MTdjNmQwMTFl","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014759546706954.MGM3MjgxZmEtODg0NS00YmFiLTlmNjktNGViNzc1ZmFhYTQzMDkzYjdkNTYtOWMwNy00MTA2LWJiNjAtM2I2MTdjNmQwMTFl","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFKzYa9At5oZHkUPRSsC4qawalYbRMaFDvX1I0ke18gxbwdKGlgcJ3okXj3OeE2qKt91xY6jHy2O37bkzNgxkrhJK2LFVtOLWeKyQp8NIZUXMfQc58VwPCI7-0b9UA7woL2VlEGLFezzNkU9OATV8r2gdtavB4lfI3J7ct2iwfrbH4YmpoNJVedBgH2vVDhLR0DeZdc56jSz_0K_qjq96UjE1Og8zGeikjF8eQV6BHpkxyh7r0mDf26B72153RQ5DIYuWCrod_v7atWX87ILDR3Ap4rzX3uHQk6vRXRaPHWoBH_TcUb3ickHb0Vxu3m6atg","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 16:25:54.908 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 16:26:02.888 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:26:07.857 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:26:07.857 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:26:07.858 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:26:07.869 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 16:26:07.946 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 59
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 16:26:39.140 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:26:47.535 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:26:47.535 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:26:47.535 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:27:51.517 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 16:27:51.576 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 59
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 16:28:29.923 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 16:28:29.966 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 16:28:29.975 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 16:28:29.975 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 16:28:29.975 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 16:28:29.975 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 16:28:29.975 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 16:28:29.975 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 16:28:30.485 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 16:28:30.487 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 16:28:30.487 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 16:28:30.487 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 16:28:30.487 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 16:28:30.487 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 16:28:30.487 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:28:49.117 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 16:28:49.127 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 16:28:49.128 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 16:28:49.135 +02:00 [DBG] Start discovery request
+2019-08-15 16:28:49.415 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 16:28:49.416 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 16:28:49.416 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 16:28:49.422 +02:00 [DBG] Start key discovery request
+2019-08-15 16:28:49.561 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 16:28:49.588 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 16:28:49.588 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 16:28:49.595 +02:00 [DBG] Start authorize request
+2019-08-15 16:28:49.606 +02:00 [DBG] No user present in authorize request
+2019-08-15 16:28:49.613 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:28:49.633 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:28:49.683 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:28:49.704 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFIPI20plfe2enEb599zZxwDiizBKNbVys7cojxTb765EHtAPaTLbNYNipaobglBlakopPe3a19ST1W14lpBgAn4d91OnniGZQ9j-CCVj8tc7zjt7lKb2lMvEQfcZioYdPto5AO6EB3O2luwRTu2bfVcFQwmLuUWVqGpDmtJwHk1HNYZ9AraQHUZKUi6Aga3Z5x0YdwqsGzYMMbJzN8Ttp64S5HSwKaJsYZ6126BJKkkEvGP9EpRvDJySQSwZaeNcr_8Ig0SaeUr2Bmfl_DkcRCbc0Gd_TmvsoSOmf0zp-HxrNXeRSunHc_f9CDjM-Ql93w","UiLocales":null,"Nonce":"637014761294841953.NjA5NThhYjMtMjg3My00ZmI4LTgxYTYtNzM3MzZhNjRlZTlhM2RhM2YxNjMtMTEyNC00MjNjLWI4N2EtNjk3NmM5N2ZiNWUx","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014761294841953.NjA5NThhYjMtMjg3My00ZmI4LTgxYTYtNzM3MzZhNjRlZTlhM2RhM2YxNjMtMTEyNC00MjNjLWI4N2EtNjk3NmM5N2ZiNWUx","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFIPI20plfe2enEb599zZxwDiizBKNbVys7cojxTb765EHtAPaTLbNYNipaobglBlakopPe3a19ST1W14lpBgAn4d91OnniGZQ9j-CCVj8tc7zjt7lKb2lMvEQfcZioYdPto5AO6EB3O2luwRTu2bfVcFQwmLuUWVqGpDmtJwHk1HNYZ9AraQHUZKUi6Aga3Z5x0YdwqsGzYMMbJzN8Ttp64S5HSwKaJsYZ6126BJKkkEvGP9EpRvDJySQSwZaeNcr_8Ig0SaeUr2Bmfl_DkcRCbc0Gd_TmvsoSOmf0zp-HxrNXeRSunHc_f9CDjM-Ql93w","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 16:28:49.740 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 16:28:56.212 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:29:03.046 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:29:03.047 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:29:03.047 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:29:14.205 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 16:29:14.380 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 59
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 16:45:20.563 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 16:45:20.605 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 16:45:20.614 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 16:45:20.614 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 16:45:20.614 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 16:45:20.614 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 16:45:20.614 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 16:45:20.614 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 16:45:20.819 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 16:45:20.821 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 16:45:20.821 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 16:45:20.821 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 16:45:20.821 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 16:45:20.821 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 16:45:20.821 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:45:20.853 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 16:45:20.856 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 16:45:20.856 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 16:45:20.860 +02:00 [DBG] Start discovery request
+2019-08-15 16:45:21.118 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 16:45:21.119 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 16:45:21.119 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 16:45:21.125 +02:00 [DBG] Start key discovery request
+2019-08-15 16:45:21.226 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 16:45:21.240 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 16:45:21.240 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 16:45:21.246 +02:00 [DBG] Start authorize request
+2019-08-15 16:45:21.257 +02:00 [DBG] No user present in authorize request
+2019-08-15 16:45:21.264 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:45:21.282 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:45:21.321 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:45:21.339 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFJDaHveQonbq1geYmKJKiB6fPtuicD9QEihTfOnEd4i1Iuovxm4uZDSgoCAVehL3JMrtuWV-98qDnWHP_fg-UxcDEvsLXak16e8ML62ppXCPG1dlqo_X_n5UmvpKsbtXFMfBNuv5c4drPe-PRsTBIrtX1f_Bz7eYUKCkgTuf9rtIbuqc9tIN2MqfgYFq5rlmT5Vt5BhoPKyzUicrCP6UTkgigew7OpSy9j511MsefGFhQNjwwplEN8HjuMMTtxq633tPwC7as-BMZh_lY4D8lMQSPhxwtLw8Yc3tD33mQm7kRupHANa_hHjbDo_eBYRDjo","UiLocales":null,"Nonce":"637014771211754979.NTI3ZjM1MTItOTgzMC00MTllLWI5Y2UtYTA4NGU1MTU1ZjJlYmNjMWQwZjMtNjdhOC00YmQ2LTg3MWYtNjM1MDU0MGUwOWU4","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014771211754979.NTI3ZjM1MTItOTgzMC00MTllLWI5Y2UtYTA4NGU1MTU1ZjJlYmNjMWQwZjMtNjdhOC00YmQ2LTg3MWYtNjM1MDU0MGUwOWU4","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFJDaHveQonbq1geYmKJKiB6fPtuicD9QEihTfOnEd4i1Iuovxm4uZDSgoCAVehL3JMrtuWV-98qDnWHP_fg-UxcDEvsLXak16e8ML62ppXCPG1dlqo_X_n5UmvpKsbtXFMfBNuv5c4drPe-PRsTBIrtX1f_Bz7eYUKCkgTuf9rtIbuqc9tIN2MqfgYFq5rlmT5Vt5BhoPKyzUicrCP6UTkgigew7OpSy9j511MsefGFhQNjwwplEN8HjuMMTtxq633tPwC7as-BMZh_lY4D8lMQSPhxwtLw8Yc3tD33mQm7kRupHANa_hHjbDo_eBYRDjo","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 16:45:21.366 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 16:45:34.937 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 16:45:34.983 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 16:45:34.993 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 16:45:34.993 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 16:45:34.993 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 16:45:34.993 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 16:45:34.993 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 16:45:34.994 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 16:45:35.454 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 16:45:35.456 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 16:45:35.457 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 16:45:35.457 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 16:45:35.457 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 16:45:35.457 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 16:45:35.457 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 16:45:47.069 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 16:45:47.076 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 16:45:47.076 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 16:45:47.080 +02:00 [DBG] Start discovery request
+2019-08-15 16:45:47.255 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 16:45:47.256 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 16:45:47.256 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 16:45:47.261 +02:00 [DBG] Start key discovery request
+2019-08-15 16:45:47.357 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 16:45:47.381 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 16:45:47.381 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 16:45:47.385 +02:00 [DBG] Start authorize request
+2019-08-15 16:45:47.396 +02:00 [DBG] No user present in authorize request
+2019-08-15 16:45:47.402 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:45:47.422 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:45:47.464 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:45:47.480 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFKxeklqJ05GtGCLscPuBPw2b7sEYJoiRRm3rd29c9E3V7UHnOI-Y1pG4lmOfzBWZHmmsQB7W2Ati4tsJeaXRJ_KKlVBaS6T2SuaNA0bwgzYagDhTl1WQZrkFRjfFAKXXP0nZW91n5vFa_uzpINYbWcS88O9eHV0-VI5yDmUUavokI5Uko5bYVgFPnIB_5Z7SQI7Sb3GO9fCHZJjhRyb8gPF-61WaLDsUu-Xm3VpXkvGTV3skfMrWoeHvqVxAVPAv8ErSK_IXLjKh4eaCmr9lptlpeQMFLgdbGVhAG7adH43tN5ZBR2GxU06ibg0gD0i4h8","UiLocales":null,"Nonce":"637014771472968662.MDJkMDRjNDYtNTA1My00NjgwLWEzMzItMzY2MGQ0ZWMzOWRkYjNmYTRmMjgtNTM4NS00N2FhLTg0YWMtNjdmOGI3OWFmZGNj","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014771472968662.MDJkMDRjNDYtNTA1My00NjgwLWEzMzItMzY2MGQ0ZWMzOWRkYjNmYTRmMjgtNTM4NS00N2FhLTg0YWMtNjdmOGI3OWFmZGNj","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFKxeklqJ05GtGCLscPuBPw2b7sEYJoiRRm3rd29c9E3V7UHnOI-Y1pG4lmOfzBWZHmmsQB7W2Ati4tsJeaXRJ_KKlVBaS6T2SuaNA0bwgzYagDhTl1WQZrkFRjfFAKXXP0nZW91n5vFa_uzpINYbWcS88O9eHV0-VI5yDmUUavokI5Uko5bYVgFPnIB_5Z7SQI7Sb3GO9fCHZJjhRyb8gPF-61WaLDsUu-Xm3VpXkvGTV3skfMrWoeHvqVxAVPAv8ErSK_IXLjKh4eaCmr9lptlpeQMFLgdbGVhAG7adH43tN5ZBR2GxU06ibg0gD0i4h8","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 16:45:47.515 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 16:45:51.647 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:45:59.213 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:45:59.213 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:45:59.214 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:46:16.287 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 16:46:16.455 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 59
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 16:54:40.529 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 16:55:07.456 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 16:55:07.456 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 16:55:07.457 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 16:58:02.152 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 16:58:02.280 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: sub claim is missing
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AssertRequiredClaims(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 129
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.AugmentPrincipal(ClaimsPrincipal principal) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 90
+   at IdentityServer4.Hosting.IdentityServerAuthenticationService.SignInAsync(HttpContext context, String scheme, ClaimsPrincipal principal, AuthenticationProperties properties) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerAuthenticationService.cs:line 78
+   at ids.Controllers.AuthenticateController.Login(LoginRequest request) in C:\Users\vlatko.zmejkoski\Source\Repos\IDS4\ids\Controllers\AuthenticateController.cs:line 59
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at System.Threading.Tasks.ValueTask`1.get_Result()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\IdentityServerMiddleware.cs:line 72
+   at IdentityServer4.Hosting.MutualTlsTokenEndpointMiddleware.Invoke(HttpContext context, IAuthenticationSchemeProvider schemes) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\MtlsTokenEndpointMiddleware.cs:line 60
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\src\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2019-08-15 17:01:13.916 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-15 17:01:13.971 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-15 17:01:13.983 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-15 17:01:13.983 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-15 17:01:13.983 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-15 17:01:13.983 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-15 17:01:13.983 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-15 17:01:13.983 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-15 17:01:14.608 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-15 17:01:14.612 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-15 17:01:14.612 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-15 17:01:14.612 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-15 17:01:14.612 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-15 17:01:14.612 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-15 17:01:14.613 +02:00 [DBG] Error Id Parameter: errorId
+2019-08-15 17:01:19.737 +02:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2019-08-15 17:01:19.740 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2019-08-15 17:01:19.740 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2019-08-15 17:01:19.745 +02:00 [DBG] Start discovery request
+2019-08-15 17:01:19.903 +02:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2019-08-15 17:01:19.903 +02:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2019-08-15 17:01:19.904 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2019-08-15 17:01:19.908 +02:00 [DBG] Start key discovery request
+2019-08-15 17:01:19.994 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 17:01:20.018 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 17:01:20.018 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 17:01:20.023 +02:00 [DBG] Start authorize request
+2019-08-15 17:01:20.035 +02:00 [DBG] No user present in authorize request
+2019-08-15 17:01:20.040 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 17:01:20.059 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 17:01:20.102 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 17:01:20.122 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFKBxKGR3fAXtpCigiSzve7q8852FIzDZ4-2ZpRuTSjxtKa8dT7ZuKPYAY2vmTHiN6knghZaRu38rTxgFFmZLbAqLnQorHC7rpZ7WcQZ8GGK68uR2fUu2zMTHtYGgPRR35krU1kPJsFI7dKl8RJ1cDtyDl_qPdO5NQps-XGbPOjdbtooe_FVoYGHTM9v_utqY_28-k3mOKtwCgP93k0iMb7V-nttzwRaWdLQPldDlqSMzCicQfcHjNTxX4QVJsedbBpEEiamB7xDSKCKw4o9MXi3yyZXgMj0gAHM3M6yJgFi_w6DAelJzGfZu1WGA_U8JA8","UiLocales":null,"Nonce":"637014780799414452.MmU3NzRhMGEtMGMzMy00ZjA3LWFhN2UtNzBiY2QyOWQwMWUxYTI1YTVhNTktN2ViOS00Yzg1LWI1MmEtNTIzOTUzMWI4MjAw","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014780799414452.MmU3NzRhMGEtMGMzMy00ZjA3LWFhN2UtNzBiY2QyOWQwMWUxYTI1YTVhNTktN2ViOS00Yzg1LWI1MmEtNTIzOTUzMWI4MjAw","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFKBxKGR3fAXtpCigiSzve7q8852FIzDZ4-2ZpRuTSjxtKa8dT7ZuKPYAY2vmTHiN6knghZaRu38rTxgFFmZLbAqLnQorHC7rpZ7WcQZ8GGK68uR2fUu2zMTHtYGgPRR35krU1kPJsFI7dKl8RJ1cDtyDl_qPdO5NQps-XGbPOjdbtooe_FVoYGHTM9v_utqY_28-k3mOKtwCgP93k0iMb7V-nttzwRaWdLQPldDlqSMzCicQfcHjNTxX4QVJsedbBpEEiamB7xDSKCKw4o9MXi3yyZXgMj0gAHM3M6yJgFi_w6DAelJzGfZu1WGA_U8JA8","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 17:01:20.157 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 17:01:25.192 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 17:01:28.431 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 17:01:28.432 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 17:01:28.433 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 17:01:28.443 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 17:01:28.446 +02:00 [DBG] Adding idp claim with value: local
+2019-08-15 17:01:28.446 +02:00 [DBG] Adding amr claim with value: pwd
+2019-08-15 17:01:28.446 +02:00 [DBG] Adding auth_time claim with value: 1565881288
+2019-08-15 17:01:28.460 +02:00 [INF] AuthenticationScheme: idsrv signed in.
+2019-08-15 17:02:03.551 +02:00 [DBG] Request path /connect/authorize matched to endpoint type Authorize
+2019-08-15 17:02:03.552 +02:00 [DBG] Endpoint enabled: Authorize, successfully created handler: IdentityServer4.Endpoints.AuthorizeEndpoint
+2019-08-15 17:02:03.552 +02:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.AuthorizeEndpoint for /connect/authorize
+2019-08-15 17:02:03.552 +02:00 [DBG] Start authorize request
+2019-08-15 17:02:03.552 +02:00 [DBG] No user present in authorize request
+2019-08-15 17:02:03.552 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 17:02:03.552 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 17:02:03.552 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 17:02:03.553 +02:00 [DBG] ValidatedAuthorizeRequest
+{"ClientId":"sp","ClientName":"Service Provider","RedirectUri":"https://localhost:44368/signin-oidc","AllowedRedirectUris":["https://localhost:44368/signin-oidc"],"SubjectId":"anonymous","ResponseType":"id_token","ResponseMode":"form_post","GrantType":"implicit","RequestedScopes":"openid profile","State":"CfDJ8DRsD_9bNqJAto_6jm_NcFIP8L3S-aQFttTMB3kZRMay7tTyxNa6sLYsmaPHU98xpou8WfOu71efRydzDFLvoiMPGhvFtYl5-djV1pD9VQ76jpExoRjlP0soeRR1yANqcl7O9voSFKaogu42pKEvL33kxDD0gjS6Va0qbwPelNGCEtIBi596gOJ0nmonGGJBlWt3GaFJ8kcyZq-0IgOccwjEqeyFjlCr2Qbz9eJuJD5qHzOPWJT9qMdhl1k5DS0y8D26GuiZmxKn-WP3Lz9fAGQmRGE-xHNiGshnp_WmeQT8soU8PfF8TO5OsgvhBtMOCDPhkVmy6rlT-THG50MTAb8","UiLocales":null,"Nonce":"637014781235374270.OWFmZmQ1ZjctNjViYy00YmRiLWE2ZDEtNzM0Mjc2YjQzZmJmMjRlMzIzZDctNGQ5NC00OWVlLWJlOTMtMWE3OGQ1MDQxYzNh","AuthenticationContextReferenceClasses":null,"DisplayMode":null,"PromptMode":null,"MaxAge":null,"LoginHint":null,"SessionId":null,"Raw":{"client_id":"sp","redirect_uri":"https://localhost:44368/signin-oidc","response_type":"id_token","scope":"openid profile","response_mode":"form_post","nonce":"637014781235374270.OWFmZmQ1ZjctNjViYy00YmRiLWE2ZDEtNzM0Mjc2YjQzZmJmMjRlMzIzZDctNGQ5NC00OWVlLWJlOTMtMWE3OGQ1MDQxYzNh","state":"CfDJ8DRsD_9bNqJAto_6jm_NcFIP8L3S-aQFttTMB3kZRMay7tTyxNa6sLYsmaPHU98xpou8WfOu71efRydzDFLvoiMPGhvFtYl5-djV1pD9VQ76jpExoRjlP0soeRR1yANqcl7O9voSFKaogu42pKEvL33kxDD0gjS6Va0qbwPelNGCEtIBi596gOJ0nmonGGJBlWt3GaFJ8kcyZq-0IgOccwjEqeyFjlCr2Qbz9eJuJD5qHzOPWJT9qMdhl1k5DS0y8D26GuiZmxKn-WP3Lz9fAGQmRGE-xHNiGshnp_WmeQT8soU8PfF8TO5OsgvhBtMOCDPhkVmy6rlT-THG50MTAb8","x-client-SKU":"ID_NETSTANDARD2_0","x-client-ver":"5.3.0.0"},"$type":"AuthorizeRequestValidationLog"}
+2019-08-15 17:02:03.553 +02:00 [INF] Showing login: User is not authenticated
+2019-08-15 17:02:23.129 +02:00 [DBG] CORS request made for path: /api/authenticate from origin: http://localhost:8082 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2019-08-15 17:02:30.488 +02:00 [DBG] Start authorize request protocol validation
+2019-08-15 17:02:30.488 +02:00 [DBG] client configuration validation for client sp succeeded.
+2019-08-15 17:02:30.489 +02:00 [DBG] Calling into custom validator: IdentityServer4.Validation.DefaultCustomAuthorizeRequestValidator
+2019-08-15 17:02:30.489 +02:00 [DBG] Augmenting SignInContext
+2019-08-15 17:02:30.489 +02:00 [DBG] Adding idp claim with value: local
+2019-08-15 17:02:30.489 +02:00 [DBG] Adding amr claim with value: pwd
+2019-08-15 17:02:30.489 +02:00 [DBG] Adding auth_time claim with value: 1565881350
+2019-08-15 17:02:30.490 +02:00 [INF] AuthenticationScheme: idsrv signed in.
+2019-08-16 09:41:55.831 +02:00 [INF] Starting IdentityServer4 version 2.5.0.0
+2019-08-16 09:41:55.893 +02:00 [INF] You are using the in-memory version of the persisted grant store. This will store consent decisions, authorization codes, refresh and reference tokens in memory only. If you are using any of those features in production, you want to switch to a different store implementation.
+2019-08-16 09:41:55.905 +02:00 [INF] Using the default authentication scheme idsrv for IdentityServer
+2019-08-16 09:41:55.905 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for authentication
+2019-08-16 09:41:55.905 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-in
+2019-08-16 09:41:55.905 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for sign-out
+2019-08-16 09:41:55.905 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for challenge
+2019-08-16 09:41:55.905 +02:00 [DBG] Using idsrv as default ASP.NET Core scheme for forbid
+2019-08-16 09:41:56.433 +02:00 [DBG] Login Url: http://localhost:8082/index.html
+2019-08-16 09:41:56.435 +02:00 [DBG] Login Return Url Parameter: ReturnUrl
+2019-08-16 09:41:56.435 +02:00 [DBG] Logout Url: http://localhost:8082/logout.html
+2019-08-16 09:41:56.435 +02:00 [DBG] ConsentUrl Url: /consent
+2019-08-16 09:41:56.435 +02:00 [DBG] Consent Return Url Parameter: returnUrl
+2019-08-16 09:41:56.435 +02:00 [DBG] Error Url: http://localhost:8082/error.html
+2019-08-16 09:41:56.435 +02:00 [DBG] Error Id Parameter: errorId
